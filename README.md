@@ -28,7 +28,7 @@ pip install -r requirements.txt
 To start playing Cupid with AI, run:
 
 ```bash
-python sim.py
+python simulation.py
 ```
 
 This will run all the simulations defined in `game_config/multi_sim_config.json`.
