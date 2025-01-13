@@ -1,0 +1,88 @@
+{
+  "configs": [
+    {
+      "name": "balanced",
+      "config": {
+        "num_days": 100,
+        "num_men": 50,
+        "num_women": 50,
+        "men_max_swipes": 20,
+        "women_max_swipes": 20,
+        "min_window": 5,
+        "max_window": 10,
+        "min_buffer": 2,
+        "max_buffer": 4,
+        "attributes": {
+          "attractiveness": {
+            "distribution": "normal",
+            "mean": 0.5,
+            "std": 0.15
+          }
+        }
+      }
+    },
+    {
+      "name": "less_women",
+      "config": {
+        "num_days": 100,
+        "num_men": 50,
+        "num_women": 30,
+        "men_max_swipes": 20,
+        "women_max_swipes": 20,
+        "min_window": 5,
+        "max_window": 10,
+        "min_buffer": 2,
+        "max_buffer": 4,
+        "attributes": {
+          "attractiveness": {
+            "distribution": "normal",
+            "mean": 0.5,
+            "std": 0.15
+          }
+        }
+      }
+    },
+    {
+      "name": "less_women_swipes",
+      "config": {
+        "num_days": 100,
+        "num_men": 50,
+        "num_women": 50,
+        "men_max_swipes": 20,
+        "women_max_swipes": 10,
+        "min_window": 5,
+        "max_window": 10,
+        "min_buffer": 2,
+        "max_buffer": 4,
+        "attributes": {
+          "attractiveness": {
+            "distribution": "normal",
+            "mean": 0.5,
+            "std": 0.15
+          }
+        }
+      }
+    },
+    {
+      "name": "both_restrictions",
+      "config": {
+        "num_days": 100,
+        "num_men": 50,
+        "num_women": 30,
+        "men_max_swipes": 20,
+        "women_max_swipes": 10,
+        "min_window": 5,
+        "max_window": 10,
+        "min_buffer": 2,
+        "max_buffer": 4,
+        "attributes": {
+          "attractiveness": {
+            "distribution": "normal",
+            "mean": 0.5,
+            "std": 0.15
+          }
+        }
+      }
+    }
+  ]
+}
