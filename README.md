@@ -1,10 +1,8 @@
-# 🚀 RizzAI: Unveiling the Science of Swipes
+# 🚀 Dating App Simulator: Uncovering the Science Behind Modern Dating Apps
 
-Welcome to RizzAI, where we're decoding the algorithms of love in the digital age! 💘🤖
+Dynamic Modeling of Social Interactions in Dating App Environments
 
 ## 🎯 Project Objectives
-
-RizzAI is on a mission to:
 
 - 🕵️‍♀️ Uncover hidden patterns in the world of online dating
 - 🌟 Explore how factors like attractiveness, gender ratios, and user preferences shape dating dynamics
@@ -13,7 +11,7 @@ RizzAI is on a mission to:
 
 ## 🧠 The Science Behind the Swipes
 
-RizzAI uses reinforcement learning to simulate various dating environments. We're not just playing Cupid; we're using AI to understand the complexities of modern romance!
+This project uses reinforcement learning to simulate various dating environments. Matchmaking and attraction aren't concepts AI can ever possibly simulate, but we hope to use AI as a tool to understand the complexities of online dating.
 
 ## 🚀 Getting Started
 
@@ -53,21 +51,17 @@ Want to create your own dating dystopia (or utopia)? Modify the `game_config/mul
 
 ## 📈 Visualizing Results
 
-After each simulation, RizzAI will display:
+After each simulation, our simulation will display:
 
 - Cumulative matches over time
 - Average match quality
-- Frustration levels (because sometimes, love hurts)
+- Match rate for both genders
+
+See how small tweaks in your starting configuration can produce drastically different outcomes.
 
 ## 🤝 Contributing
 
 Found a bug? Want to add a new feature? We're all about that commitment! Feel free to open an issue or submit a pull request.
-
-## 👥 Team
-
-- O'Neal Kpodar: The Data Whisperer
-- Daniel Veretenov: Simulation Sorcerer
-- Daniel Xu: Code Architect and Optimization Wizard
 
 ## 📜 License
 
@@ -76,6 +70,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 🙏 Acknowledgments
 
 - Shoutout to the Primer YouTube channel for inspiring our simulations
-- Thanks to all the dating apps out there for... well, existing
-
-Remember: In the world of RizzAI, every swipe is a step towards understanding the science of love! ❤️🔬
+- Thank you to our wonderful DS4420 Professor Deahan Yu for his guidance and expertise
+- Acknowledgement of all the resources cited in our paper 
