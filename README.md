@@ -49,6 +49,8 @@ Want to create your own dating dystopia (or utopia)? Modify the `game_config/mul
 - Swiping behaviors
 - And more!
 
+If you're interested in checking out what the results from our simulations were, please view our Final Report write-up which contains a thorough overview of this project as a whole.
+
 ## 📈 Visualizing Results
 
 After each simulation, our simulation will display:
