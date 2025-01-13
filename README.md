@@ -1,4 +1,4 @@
-# 🚀 Dating App Simulator: Uncovering the Science Behind Modern Dating Apps
+# 🚀 Dating App Simulator: Diving into Modern Dating Apps
 
 Dynamic Modeling of Social Interactions in Dating App Environments
 
